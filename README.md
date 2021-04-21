@@ -10,4 +10,11 @@ GitHub handle: @lillisebe <br>
 Rolle: Enterprise Sales Manager
 
 ## Eure Moderatorinnen - Session 3 & 4  
+![my-octocat-1618904824387](https://user-images.githubusercontent.com/49121100/115566554-9f96a980-a2ba-11eb-9eaf-70a65ee341ea.png)
+GitHub handle: @veronicapaula <br>
+Rolle: Field Marketing Manager
 
+![Anna-octocat](https://user-images.githubusercontent.com/49121100/115566878-f2706100-a2ba-11eb-8992-93180d32126c.png)
+
+GitHub handle: @annawinti <br>
+Rolle: Corporate Sales Representative
