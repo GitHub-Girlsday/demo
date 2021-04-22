@@ -18,3 +18,7 @@ Rolle: Field Marketing Manager
 
 GitHub handle: @annawinti <br>
 Rolle: Corporate Sales Representative
+
+
+
+Powered by: Johannes Nicolai - @jonico 
