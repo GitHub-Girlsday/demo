@@ -20,5 +20,6 @@ GitHub handle: @annawinti <br>
 Rolle: Corporate Sales Representative
 
 
-
+--
 Powered by: Johannes Nicolai - @jonico 
+![Snip20210422_44](https://user-images.githubusercontent.com/13851369/115670060-49247c00-a349-11eb-95fb-d2b82a898753.png)
